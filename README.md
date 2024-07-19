@@ -23,10 +23,7 @@ En este proyecto, tomé un conjunto de datos de ventas y lo transformé en insig
     - Comparación de ventas por categorías 📊
     - Correlaciones entre variables 🔥
 
-## 💻 Requisitos
-
-- `pandas`
-- `matplotlib`
-- `seaborn`
+## 📂 Código Completo
+En el apartado CASO_NEGOCIO, podrás ver el código completo utilizado en este proyecto. Ahí encontrarás todos los pasos detallados para reproducir el análisis y las visualizaciones. 📝🔍
 
 ¡Espero que disfruten el proyecto tanto como yo disfruté creándolo! 🚀✨
